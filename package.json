@@ -1,0 +1,15 @@
+{
+  "name": "webpack-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "Roman Mamchyk",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^2.2.0"
+  }
+}
